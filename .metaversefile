@@ -4,6 +4,10 @@
   "start_url": "fox.glb",
   "components": [
     {
+      "key": "physics",
+      "value": true
+    },
+    {
       "key": "look",
       "value": {
         "rootBone": "Neck_1"
